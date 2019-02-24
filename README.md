@@ -1,4 +1,4 @@
 # setup-scripts
-Various Linux Scripts
+<b>Various Linux Scripts</b>
 
 Just some scripts to make disto hopping easier for me.
