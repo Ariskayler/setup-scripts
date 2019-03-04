@@ -4,7 +4,7 @@
 sudo apt update && sudo apt install -y nodejs yarn
 sudo npm init ava
 cd ~/git
-git clone git@github.com:rockymadden/somafm-cli.git
+git clone https://github.com:rockymadden/somafm-cli.git
 cd somafm-cli
 make
 make install
