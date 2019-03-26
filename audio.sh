@@ -11,4 +11,4 @@ make install
 sudo npm install --global somafm
 
 #Other Stuff
-sudo apt update && sudo apt install -y audacity mplayer mpv picard streamripper youtube-dl ffmpeg
+sudo apt update && sudo apt install -y audacity mplayer mpv picard streamripper youtube-dl ffmpeg 
