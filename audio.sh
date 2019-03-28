@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Soma FM
-sudo apt update && sudo apt install -y nodejs npm yarn git
+sudo apt update && sudo apt install nodejs npm yarn
 sudo npm init ava
 cd ~/git
 git clone https://github.com/rockymadden/somafm-cli.git
@@ -11,4 +11,5 @@ make install
 sudo npm install --global somafm
 
 #Other Stuff
-sudo apt update && sudo apt install -y audacity mplayer mpv picard streamripper youtube-dl ffmpeg 
+sudo apt install audacity mplayer mpv picard streamripper 
+sudo apt install cantata sidplayfp youtube-dl ffmpeg
