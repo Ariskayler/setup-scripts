@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt update && sudo apt install -y samba samba-client
+sudo apt update && sudo apt install samba samba-client
